@@ -35,3 +35,5 @@ Open the browser and verify that the service is available (http://***node-ip***:
     kubectl get ds --namespace=kube-logging
   
 Finally, you can go again to kibana (http://***node-ip***:5601)  and put the index ***logstash-**** and that is all
+
+Currently, this code works only on **minikube** due to dynamic provisionning issue
