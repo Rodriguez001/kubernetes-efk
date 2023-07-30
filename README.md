@@ -1,5 +1,5 @@
 # kubernetes-efk
-This repo is use in [eazytraining's kubernetes course](https://eazytraining.fr/cours/kubernetes-les-bases-pour-devops) to deploy EFK (ElasticSearch - Fluentd - kibana) stack for logging porpuse.
+This repo is use to deploy EFK (ElasticSearch - Fluentd - kibana) stack for logging porpuse.
 This code is based on the great [digital ocean tutorial](https://www.digitalocean.com/community/tutorials/how-to-set-up-an-elasticsearch-fluentd-and-kibana-efk-logging-stack-on-kubernetes). So you can read it also for some usefull information.
 Here we will only give you the command you need to run to setup the stack.
 ## Namespace
